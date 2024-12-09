@@ -11,5 +11,5 @@
 ## About Me
 Answer the questions below
 * Something interesting about me is I am really good at quickly learning and remembering song lyrics.
-* Ask Mr. Vu anything:
-* List your sports and extracurriculars you participate in
+* Ask Mr. Vu anything: why did you start teaching computer science?
+* List your sports and extracurriculars you participate in: 
